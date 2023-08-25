@@ -4,7 +4,7 @@
 
 ## 概要
 
-RecursionCS(https://recursionist.io)で作ったBackend Projectの課題作品です。
+RecursionCS( https://recursionist.io )で作ったBackend Projectの課題作品です。
 数字の範囲をユーザーが与え、その範囲の隠された数字を当てるゲームです。
 
 ## 遊び方
